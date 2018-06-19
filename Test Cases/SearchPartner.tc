@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Searching Partner in Partnerlisitng page</description>
+   <name>SearchPartner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c03bf66-0ff2-4117-b0ba-b09f3d1cde85</testCaseGuid>
+</TestCaseEntity>
